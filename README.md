@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://github.com/namanvirk18/anton/blob/main/assets/mindsdb.png?raw=true" alt="MindsDB Logo" width="500" style="margin-bottom: -10px;">
+<img src="https://github.com/namanvirk18/anton/blob/main/assets/mindsdb.png?raw=true" alt="MindsDB Logo" width="500">
+
+<br>
 
 <img src="https://github.com/namanvirk18/anton/blob/main/assets/Anton-removebg-preview.png?raw=true" alt="Anton" width="300">
 
