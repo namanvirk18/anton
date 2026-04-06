@@ -2,8 +2,6 @@
 
 <img src="https://github.com/namanvirk18/anton/blob/main/assets/mindsdb.png?raw=true" alt="MindsDB Logo" width="400">
 
-<p></p>
-
 <img src="https://github.com/namanvirk18/anton/blob/main/assets/Anton-removebg-preview.png?raw=true" alt="Anton" width="300">
 
 AI business intelligence agent that analyzes multi-source data and delivers actionable insights through natural language.
